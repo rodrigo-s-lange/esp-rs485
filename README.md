@@ -1,4 +1,4 @@
-# esp_rs485
+# esp-rs485
 
 Runtime-ready skeleton for RS485/UART transport with room for Modbus-specific adapters.
 
